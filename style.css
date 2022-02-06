@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+  }
+  body{
+      background-color: black;
+  }
+  h1{
+      font-size: 50px;
+      font-weight: Normal;
+      color:white;
+      font-family: Verdana;
+      margin:auto 0px;
+      text-align: center;
+  }
+  h4 a{
+     font-size: 16px;
+      font-weight: Normal;
+      color:aquamarine;
+      font-family: Verdana;
+      margin:auto;
+      display:block;
+      text-align: center;   
+  }
+  video{
+    object-fit: contain;
+    margin: auto auto;
+      display: block;
+  }
+  h2{
+    font-size: 42px;
+    font-weight: 300px;
+    color:white;
+    font-family: Verdana;
+    margin:auto 0px;
+    text-align: center; 
+  }
+  h3{
+    font-size: 21px;
+    font-weight: 300px;
+    color: gray;
+    font-family: Verdana;
+    margin:auto 0px;
+    text-align: center;    
+  }
+  .app{
+      margin: auto auto;
+      display: block;
+  }
